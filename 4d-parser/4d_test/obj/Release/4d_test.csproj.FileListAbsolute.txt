@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\4d-parser\4d_test\bin\Release\4d_test.exe.config
+C:\Users\User\source\repos\4d-parser\4d_test\bin\Release\4d_test.exe
+C:\Users\User\source\repos\4d-parser\4d_test\bin\Release\4d_test.pdb
+C:\Users\User\source\repos\4d-parser\4d_test\bin\Release\4d-parser.dll
+C:\Users\User\source\repos\4d-parser\4d_test\obj\Release\4d_test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\4d-parser\4d_test\obj\Release\4d_test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4d-parser\4d_test\obj\Release\4d_test.csproj.CopyComplete
+C:\Users\User\source\repos\4d-parser\4d_test\obj\Release\4d_test.exe
+C:\Users\User\source\repos\4d-parser\4d_test\obj\Release\4d_test.pdb
+C:\Users\User\source\repos\4d-parser\4d_test\bin\Release\4d-parser.pdb

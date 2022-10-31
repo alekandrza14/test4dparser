@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\4d-parser\4d-parser\bin\Release\4d-parser.dll
+C:\Users\User\source\repos\4d-parser\4d-parser\bin\Release\4d-parser.pdb
+C:\Users\User\source\repos\4d-parser\4d-parser\obj\Release\4d-parser.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\4d-parser\4d-parser\obj\Release\4d-parser.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\4d-parser\4d-parser\obj\Release\4d-parser.dll
+C:\Users\User\source\repos\4d-parser\4d-parser\obj\Release\4d-parser.pdb
+C:\Users\User\source\repos\4d-parser\p4\4d-parser.dll
+C:\Users\User\source\repos\4d-parser\p4\4d-parser.pdb
